@@ -1,1 +1,10 @@
-
+List the features of Java?
+What is difference between JDK,JRE and JVM?
+What is classloader?
+What is JAR file?
+What is WAR File?
+What gives Java its 'write once and run anywhere' nature?
+What is the difference between abstraction and encapsulation?
+What if I write static public void instead of public static void?
+Is Empty .java file name a valid source file name?
+If I don't provide any arguments on the command line, then the String array of Main method will be empty or null?
